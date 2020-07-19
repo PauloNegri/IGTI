@@ -1,0 +1,53 @@
+body{
+    background-image: url('img/01.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    box-shadow: 10px 10px 5px 5px gray;
+    width:51%;
+    margin-left: 250px;
+    color: whitesmoke;
+    background-color:black;
+}
+main{
+    width: 50%;
+    height: 270px;
+    margin-left:250px;
+    background-color: rgba(0, 0, 0, 0.192);
+    border:solid black thick;
+    box-shadow: 10px 10px 5px 5px gray;
+}
+main section{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+#coloredSquare{
+   
+    margin: 30px 35px 30px 65px;
+    border: solid thick black;
+    padding: 90px;
+    width: 250px thick ;
+    
+   
+}
+#red{
+    color: red;
+}
+#green{
+    color:green;
+}
+#blue{
+    color:rgba(30, 81, 148, 0.637);
+}
+a{
+    
+    color:black
+
+}
+footer{
+    text-align-last: center;
+    
+}
